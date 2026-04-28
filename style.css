@@ -1,14 +1,18 @@
-p {
-    text-align: center
-}
-
 body {
     background: #FFFFE0;
 }
-  
+
+#banner_cinturaodeabelhas_fotoMatheusMelo {
+    width: 100%;
+}
+
 h1 {
     text-align: center; background: #FFFF00;
 }
 p {
     style="font-size: 20px;
+}
+
+p {
+    text-align: center
 }
