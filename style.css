@@ -11,7 +11,8 @@ body {
     padding: 30px;
 }
 h1 {
-    text-align: center; background: #FFFF00;
+   background:  #FFFF00;
+   padding-left: 20px;
 }
 h2 {
     text-align: center;
