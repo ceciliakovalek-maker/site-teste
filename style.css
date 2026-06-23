@@ -28,7 +28,13 @@ p {
 .indice {
     background-color: #FFFFFF;
 }
-
+ul {
+    display: inline-block;
+}
 h2 {
     text-align: center;
+}
+
+.imagemindice {
+    width: 50%;
 }
