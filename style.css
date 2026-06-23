@@ -15,5 +15,9 @@ p {
 }
 
 p {
-    text-align: center
+    text-align: center;
+}
+
+.itens {
+   font-style: italic;
 }
