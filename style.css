@@ -11,7 +11,7 @@ body {
     padding: 30px;
 }
 
-h1 {
+h2 {
     text-align: center; background: #FFFF00;
 }
 p {
@@ -36,7 +36,7 @@ ul {
     width: 20%;
     margin-right: 15%;
 }
-h2 {
+h3 {
     text-align: center;
 }
 
