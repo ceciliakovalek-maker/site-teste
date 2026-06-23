@@ -8,6 +8,7 @@ body {
 
 .principal {
     background: #FFFFE0;
+    padding: 30px;
 }
 
 h1 {
@@ -27,6 +28,7 @@ p {
 
 .indice {
     background-color: #FFFFFF;
+    padding: 20px;
 }
 ul {
     display: inline-block;
