@@ -1,10 +1,13 @@
 body {
-    background: #FFFFE0;
+    
 }
 
 #banner_cinturaodeabelhas_fotoMatheusMelo {
-    height: 50%px;
-    width: auto;
+    width:100%;
+}
+
+.principal {
+    background: #FFFFE0;
 }
 
 h1 {
