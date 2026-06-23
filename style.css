@@ -10,7 +10,9 @@ body {
     background: #FFFFE0;
     padding: 30px;
 }
-
+h1 {
+    text-align: center;
+}
 h2 {
     text-align: center; background: #FFFF00;
 }
