@@ -11,18 +11,17 @@ body {
     padding: 30px;
 }
 h1 {
-    text-align: center;
-}
-h2 {
     text-align: center; background: #FFFF00;
 }
+h2 {
+    text-align: center;
+}
 p {
+   text-align: center;
     style="font-size: 20px;
 }
 
-p {
-    text-align: center;
-}
+p
 
 .itens {
    font-style: italic;
