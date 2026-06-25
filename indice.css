@@ -27,3 +27,12 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+
+.perguntas {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.perguntas li {
+    display: inline-block;
+}
